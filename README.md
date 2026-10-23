@@ -50,7 +50,8 @@ print(x)
 
 ## Output:
 1.
-<img width="1228" height="562" alt="image" src="https://github.com/user-attachments/assets/064d501b-1300-499a-910a-5b3a165ddc35" />
+<img width="1185" height="392" alt="image" src="https://github.com/user-attachments/assets/a106b5f6-ee2a-4100-98ab-34a593a0aae8" />
+
 2.
 <img width="1237" height="238" alt="image" src="https://github.com/user-attachments/assets/96a243e7-2f00-48d3-939f-7be78e445833" />
 
